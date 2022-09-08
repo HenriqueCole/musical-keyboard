@@ -240,7 +240,6 @@ function CS() {
 document.addEventListener("keydown", function (event) {
   if (event.code === "Digit2") {
     C2();
-    
   }
 });
 
