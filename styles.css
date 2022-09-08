@@ -118,7 +118,7 @@ ul li:last-child {
   }
   ul .white {
     height: 13em;
-    width: 2em;
+    width: 1.5em;
     z-index: 1;
     border-left: 1px solid #bbb;
     border-bottom: 1px solid #bbb;
