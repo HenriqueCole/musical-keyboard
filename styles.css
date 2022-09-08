@@ -1,5 +1,13 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.set {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 body {
@@ -13,10 +21,8 @@ body {
   padding-bottom: 2%;
 }
 ul {
-  height: 18.875em;
-  width: 62.2em;
-  margin: 5em auto;
-  padding: 3em 0 0 3em;
+  height: 100vh;
+  width: 100vw;
   position: relative;
   border: 1px solid #160801;
   border-radius: 1em;
