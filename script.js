@@ -126,7 +126,6 @@ function C2() {
 document.addEventListener("keydown", function (event) {
   if (event.code === "KeyI") {
     C2();
-    
   }
 });
 
@@ -239,8 +238,7 @@ function CS() {
 }
 document.addEventListener("keydown", function (event) {
   if (event.code === "Digit2") {
-    C2();
-    
+    CS();
   }
 });
 
